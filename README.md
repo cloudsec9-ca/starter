@@ -1,2 +1,2 @@
 # starter
-This is my git and github learning repo
+Just a spot to pull a few quick things together
