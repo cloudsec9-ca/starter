@@ -19,6 +19,9 @@ https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_components
 https://en.wikipedia.org/wiki/Windows_NT_startup_process
 https://en.wikipedia.org/wiki/NTLDR
 
+  Registry/Hive file formats:
+https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md
+
   Deploying Windows over the network:
 https://en.wikipedia.org/wiki/Preboot_Execution_Environment
 https://docs.microsoft.com/en-us/mem/configmgr/osd/deploy-use/use-pxe-to-deploy-windows-over-the-network
