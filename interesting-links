@@ -20,7 +20,10 @@ https://en.wikipedia.org/wiki/Windows_NT_startup_process
 https://en.wikipedia.org/wiki/NTLDR
 
   Registry/Hive file formats:
+https://en.wikipedia.org/wiki/Windows_Registry
 https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md
+https://www.sciencedirect.com/topics/computer-science/registry-hive-file
+
 
   Deploying Windows over the network:
 https://en.wikipedia.org/wiki/Preboot_Execution_Environment
