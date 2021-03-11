@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/NTLDR
 https://en.wikipedia.org/wiki/Windows_Registry
 https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md
 https://www.sciencedirect.com/topics/computer-science/registry-hive-file
-
+https://github.com/libguestfs/hivex
 
   Deploying Windows over the network:
 https://en.wikipedia.org/wiki/Preboot_Execution_Environment
