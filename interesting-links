@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/NTLDR
   Registry/Hive file formats:
 https://en.wikipedia.org/wiki/Windows_Registry
 https://github.com/msuhanov/regf/blob/master/Windows%20registry%20file%20format%20specification.md
+https://doxygen.reactos.org/dc/dea/hivedata_8h_source.html#l00285
 https://www.sciencedirect.com/topics/computer-science/registry-hive-file
 https://github.com/libguestfs/hivex
 https://titanwolf.org/Network/Articles/Article?AID=e9717517-c4fe-4a33-a701-38187bcc2534#gsc.tab=0
