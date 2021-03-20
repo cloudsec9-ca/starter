@@ -31,6 +31,8 @@ https://libguestfs.org/hivex.3.html
 https://github.com/reactos/reactos/tree/master/sdk/tools/mkhive
 http://wiki.gis.com/wiki/index.php/Windows_Registry
 https://www.howtogeek.com/382727/what-is-a-reg-file-and-how-do-i-open-one/
+https://helgeklein.com/blog/2009/08/registry-fun-working-with-hive-files/
+
 
   Deploying Windows over the network:
 https://en.wikipedia.org/wiki/Preboot_Execution_Environment
