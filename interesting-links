@@ -33,6 +33,7 @@ http://wiki.gis.com/wiki/index.php/Windows_Registry
 https://support.microsoft.com/en-us/topic/description-of-the-windows-registry-checker-tool-scanreg-exe-aaae4323-daa2-8477-5a4e-2a273779fdf0
 https://www.howtogeek.com/382727/what-is-a-reg-file-and-how-do-i-open-one/
 https://helgeklein.com/blog/2009/08/registry-fun-working-with-hive-files/
+https://superuser.com/questions/111732/read-registry-files-in-windows-config-directory-from-a-backup
     Registry header specifics
 https://github.com/libyal/libregf/blob/main/documentation/Windows%20NT%20Registry%20File%20(REGF)%20format.asciidoc
 https://arsenalrecon.com/2018/08/insights-post-hiverecon-and-hbinrecon-launched/
